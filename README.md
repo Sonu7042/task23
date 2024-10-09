@@ -1,1 +1,1 @@
-https://benevolent-druid-e0ba57.netlify.app/login
+https://benevolent-druid-e0ba57.netlify.app/
